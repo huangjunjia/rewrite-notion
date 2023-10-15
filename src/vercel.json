@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/*",
+      "dest": "https://huangjunjia.notion.site/cef6a618e5e44d4bbb13c2c85f9b8792?pvs=4"
+    }
+  ]
+}
